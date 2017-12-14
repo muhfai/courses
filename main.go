@@ -8,8 +8,8 @@ import (
 	"log"
 	"net/http"
 	// don't forget to include our dearest framework : gorilla mux
-	"courses/gorilla/mux"
-	"courses/mgo.v2/bson"
+	"github.com/gorilla/mux"
+	"gopkg.in/mgo.v2/bson"
 	
 	// importing all packages
 	"courses/config"

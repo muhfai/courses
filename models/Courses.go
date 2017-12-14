@@ -1,6 +1,6 @@
 package models
 
-import "courses/mgo.v2/bson"
+import "gopkg.in/mgo.v2/bson"
 
 // Represents a Course, we uses bson to tell the mgo driver
 // bson = binary JSON, a bin­ary-en­coded seri­al­iz­a­tion of JSON-like doc­u­ments

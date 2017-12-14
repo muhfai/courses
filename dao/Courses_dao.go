@@ -5,8 +5,8 @@ package dao
 import (
 	"log"
 	"courses/models"
-	mgo "courses/mgo.v2" // importing packages
-	"courses/mgo.v2/bson"
+	mgo "gopkg.in/mgo.v2"// importing packages
+	"gopkg.in/mgo.v2/bson"
 )
 
 // Start : Establish connection between Server and Database

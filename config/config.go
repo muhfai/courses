@@ -5,7 +5,7 @@ package config
 import (
 	"log"
 
-	"courses/BurntSushi/toml"
+	"github.com/BurntSushi/toml"
 )
 
 // Represents database server and credentials
