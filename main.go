@@ -127,7 +127,7 @@ func main() {
 	r.HandleFunc("/courses", UpdateCourse).Methods("PUT")
 	r.HandleFunc("/courses", DeleteCourse).Methods("DELETE")
 	r.HandleFunc("/courses/{ID_Course}", FindCourse).Methods("GET")
-	if err := http.ListenAndServe(":3000", r); err != nil {
+	if err := http.ListenAndServe(":8080", r); err != nil {
 		log.Fatal(err)
 	}
 }
