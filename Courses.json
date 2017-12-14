@@ -1,0 +1,1257 @@
+[
+  {"ID_Course": "II2110", "Course_Name": "Matematika STI", "Lecturer": "I Gusti Bagus Baskara Nugraha", "Topic": "Sistem dan Teknologi Informasi", "Attendance": 54},
+  {
+    "ID_Course": "II2111",
+    "Course_Name": "Probabilitas dan Statistik",
+    "Lecturer": "Dimitri Mahayana",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 53
+  },
+  { "ID_Course": "II3120","Course_Name": "Layanan STI","Lecturer": "Suhardi","Topic": "Sistem dan Teknologi Informasi", "Attendance": 46},
+  {
+    "ID_Course": "II3121",
+    "Course_Name": "Analisis Kebutuhan Enterprise",
+    "Lecturer": "Kridanto Surendro",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 45
+  },
+  {
+    "ID_Course": "II3130",
+    "Course_Name": "Sistem Operasi",
+    "Lecturer": "Albarda",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 49
+  },
+  {
+    "ID_Course": "II3150",
+    "Course_Name": "Sistem Multimedia",
+    "Lecturer": "Yusep Rosmansyah",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 43
+  },
+  {
+    "ID_Course": "II3160",
+    "Course_Name": "Pemrograman Integratif",
+    "Lecturer": "I Gusti Bagus Baskara Nugraha",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 44
+  },
+  {
+    "ID_Course": "II4021",
+    "Course_Name": "Sistem Pendukung Pengambilan Keputusan",
+    "Lecturer": "Mary Handoko",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "II4022",
+    "Course_Name": "Audit Teknologi Informasi",
+    "Lecturer": "Kridanto Surendro",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 49
+  },
+  {
+    "ID_Course": "II4032",
+    "Course_Name": "Analisis & Perancangan Kinerja Sistem",
+    "Lecturer": "Achmad Imam Kistijantoro",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 47
+  },
+  {
+    "ID_Course": "II4033",
+    "Course_Name": "Forensik Digital",
+    "Lecturer": "Yusuf Kurniawan",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 16
+  },
+  {
+    "ID_Course": "II4071",
+    "Course_Name": "Keprofesian STI",
+    "Lecturer": "Suhono Harso Supangkat",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 50
+  },
+  {
+    "ID_Course": "II4470",
+    "Course_Name": "Hukum & Etika Teknologi Informasi",
+    "Lecturer": "Dicky Prima Satya",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 52
+  },
+  {
+    "ID_Course": "II4471",
+    "Course_Name": "Kapita Selekta STI",
+    "Lecturer": "Arry Achmad Arman",
+    "Topic": "Sistem dan Teknologi Informasi",
+    "Attendance": 53
+  },
+  {
+    "ID_Course": "EB2101",
+    "Course_Name": "Dasar Teknik Biomedis",
+    "Lecturer": "Agung Wahyu Setiawan",
+    "Topic": "Teknik Biomedis",
+    "Attendance": 37
+  },
+  {
+    "ID_Course": "EB2102",
+    "Course_Name": "Rangkaian Elektrik dan Elektronika",
+    "Lecturer": "Achmad Fuad Mas'ud",
+    "Topic": "Teknik Biomedis",
+    "Attendance": 37
+  },
+  {
+    "ID_Course": "EB2103",
+    "Course_Name": "Anatomi dan Fisiologi I",
+    "Lecturer": "Richard Karel Willem Mengko",
+    "Topic": "Teknik Biomedis",
+    "Attendance": 30
+  },
+  {
+    "ID_Course": "EB3104",
+    "Course_Name": "Biomekanika",
+    "Lecturer": "Tati Latifah Erawati Rajab",
+    "Topic": "Teknik Biomedis",
+    "Attendance": 29
+  },
+  {
+    "ID_Course": "EB3108",
+    "Course_Name": "Probabilitas dan Biostatistika",
+    "Lecturer": "Andriyan Bayu Suksmono",
+    "Topic": "Teknik Biomedis",
+    "Attendance": 31
+  },
+  {
+    "ID_Course": "EP2091",
+    "Course_Name": "Probabilitas & Statistik",
+    "Lecturer": "Ngapuli Irmea Sinisuka",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 35
+  },
+  {
+    "ID_Course": "EP2274",
+    "Course_Name": "Teknik Tenaga Listrik",
+    "Lecturer": "Burhanuddin Halimi",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 147
+  },
+  {
+    "ID_Course": "EP3071",
+    "Course_Name": "Mesin-mesin Listrik",
+    "Lecturer": "Agus Purwadi",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 34
+  },
+  {
+    "ID_Course": "EP3073",
+    "Course_Name": "Analisis Numerik Untuk Tenaga Listrik",
+    "Lecturer": "Deny Hamdani",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 42
+  },
+  {
+    "ID_Course": "EP3075",
+    "Course_Name": "Analisis Sistem Tenaga",
+    "Lecturer": "Muhammad Nurdin",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 34
+  },
+  {
+    "ID_Course": "EP3076",
+    "Course_Name": "Proteksi Sistem Tenaga",
+    "Lecturer": "Reynaldo Zoro",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 13
+  },
+  {
+    "ID_Course": "EP3095",
+    "Course_Name": "Material Elektroteknik",
+    "Lecturer": "Suwarno",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 37
+  },
+  {
+    "ID_Course": "EP4070",
+    "Course_Name": "Desain Sistem Tenaga Listrik",
+    "Lecturer": "Syarif Hidayat",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 27
+  },
+  {
+    "ID_Course": "EP4071",
+    "Course_Name": "Pemanfaatan Energi Listrik",
+    "Lecturer": "Agus Purwadi",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 46
+  },
+  {
+    "ID_Course": "EP4072",
+    "Course_Name": "SCADA dan Manajemen Energi",
+    "Lecturer": "Syarif Hidayat",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 28
+  },
+  {
+    "ID_Course": "EP4073",
+    "Course_Name": "Kapita Selekta Tenaga Listrik",
+    "Lecturer": "Pekik Argo Dahono",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 45
+  },
+  {
+    "ID_Course": "EP4077",
+    "Course_Name": "Sistem Distribusi Tenaga Listrik",
+    "Lecturer": "Arwindra Rizqiawan",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 46
+  },
+  {
+    "ID_Course": "EP4079",
+    "Course_Name": "Proteksi Rele",
+    "Lecturer": "Nanang Hariyanto",
+    "Topic": "Teknik Tenaga Listrik",
+    "Attendance": 8
+  },
+  {
+    "ID_Course": "ET2000",
+    "Course_Name": "Medan Elektromagnetik I",
+    "Lecturer": "Chairunnisa",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 13
+  },
+  {
+    "ID_Course": "ET2001",
+    "Course_Name": "Matematika Diskrit",
+    "Lecturer": "Nana Rachmana Syambas",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 33
+  },
+  {
+    "ID_Course": "ET2002",
+    "Course_Name": "Probabilitas & Statistika",
+    "Lecturer": "Andriyan Bayu Suksmono",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 9
+  },
+  {
+    "ID_Course": "ET2003",
+    "Course_Name": "Rangkaian Listrik",
+    "Lecturer": "Mohammad Ridwan Effendi",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 31
+  },
+  {
+    "ID_Course": "ET2004",
+    "Course_Name": "Pengolahan Sinyal dalam waktu Kontinyu",
+    "Lecturer": "Ian Josef Matheus Edward",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 11
+  },
+  {
+    "ID_Course": "ET2005",
+    "Course_Name": "Desain Sistem Digital",
+    "Lecturer": "Nana Rachmana Syambas",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 32
+  },
+  {
+    "ID_Course": "ET2007",
+    "Course_Name": "Pemrograman",
+    "Lecturer": "Hamonangan Situmorang",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 33
+  },
+  {
+    "ID_Course": "ET3000",
+    "Course_Name": "Medan Elektromagnetik II",
+    "Lecturer": "Chairunnisa",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 37
+  },
+  {
+    "ID_Course": "ET3001",
+    "Course_Name": "Sistem Komunikasi Analog & Digital",
+    "Lecturer": "Iskandar",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 44
+  },
+  {
+    "ID_Course": "ET3002",
+    "Course_Name": "Komunikasi Digital",
+    "Lecturer": "Mohammad Sigit Arifianto",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 6
+  },
+  {
+    "ID_Course": "ET3003",
+    "Course_Name": "Jaringan Komputer",
+    "Lecturer": "Tutun Juhana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 81
+  },
+  {
+    "ID_Course": "ET3004",
+    "Course_Name": "Rekayasa Trafik Telekomunikasi",
+    "Lecturer": "Sigit Haryadi",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 42
+  },
+  {
+    "ID_Course": "ET3005",
+    "Course_Name": "Pengolahan Sinyal dalam waktu Diskrit",
+    "Lecturer": "Effrina Yanti Hamid",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 34
+  },
+  {
+    "ID_Course": "ET3006",
+    "Course_Name": "Elektronika Frekuensi Radio",
+    "Lecturer": "Achmad Munir",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 8
+  },
+  {
+    "ID_Course": "ET3007",
+    "Course_Name": "Antena & Propagasi Gelombang",
+    "Lecturer": "Adit Kurniawan",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 8
+  },
+  {
+    "ID_Course": "ET3009",
+    "Course_Name": "Rekayasa Perangkat Lunak",
+    "Lecturer": "Hamonangan Situmorang",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 40
+  },
+  {
+    "ID_Course": "ET3010",
+    "Course_Name": "Layanan Tersambung & Komputasi Awan",
+    "Lecturer": "Eueung Mulyana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 1
+  },
+  {
+    "ID_Course": "ET4003",
+    "Course_Name": "Kapita Selekta Telekomunikasi",
+    "Lecturer": "Mohammad Ridwan Effendi",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 31
+  },
+  {
+    "ID_Course": "ET4040",
+    "Course_Name": "Ekonomi, Bisnis, Regulasi dan Kebijakan Telekomunikasi",
+    "Lecturer": "Sigit Haryadi",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 17
+  },
+  {
+    "ID_Course": "ET4041",
+    "Course_Name": "Sistem Komunikasi Multimedia",
+    "Lecturer": "Hendrawan",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 31
+  },
+  {
+    "ID_Course": "ET4042",
+    "Course_Name": "Sistem Komunikasi Optik Non-Linier",
+    "Lecturer": "Hardi Nusantara",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 5
+  },
+  {
+    "ID_Course": "ET4044",
+    "Course_Name": "Pemrograman Perangkat Telekomunikasi",
+    "Lecturer": "Eueung Mulyana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 14
+  },
+  {
+    "ID_Course": "ET4058",
+    "Course_Name": "Sistem Radar dan Navigasi",
+    "Lecturer": "Joko Suryana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 6
+  },
+  {
+    "ID_Course": "ET4061",
+    "Course_Name": "Jaringan Akses Nir-kabel",
+    "Lecturer": "Adit Kurniawan",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 32
+  },
+  {
+    "ID_Course": "ET4064",
+    "Course_Name": "Sistem Komunikasi Satelit & Terestrial",
+    "Lecturer": "Joko Suryana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 4
+  },
+  {
+    "ID_Course": "ET4144",
+    "Course_Name": "Manajemen Jaringan Telekomunikasi",
+    "Lecturer": "Ian Josef Matheus Edward",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 5
+  },
+  {
+    "ID_Course": "ET4160",
+    "Course_Name": "Manajemen Proyek Telekomunikasi",
+    "Lecturer": "Hardi Nusantara",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 23
+  },
+  {
+    "ID_Course": "ET4242",
+    "Course_Name": "Teknologi IP Lanjut",
+    "Lecturer": "Tutun Juhana",
+    "Topic": "Teknik Telekomunikasi",
+    "Attendance": 18
+  },
+  {
+    "ID_Course": "EL1200",
+    "Course_Name": "Pengantar Analisis Rangkaian",
+    "Lecturer": "Mervin Tangguar Hutabarat",
+    "Topic": "Teknik Elektro",
+    "Attendance": 25
+  },
+  {
+    "ID_Course": "EL2001",
+    "Course_Name": "Rangkaian Elektrik",
+    "Lecturer": "Eniman Yunus Syamsudin",
+    "Topic": "Teknik Elektro",
+    "Attendance": 162
+  },
+  {
+    "ID_Course": "EL2002",
+    "Course_Name": "Sistem Digital",
+    "Lecturer": "Yudi Satria Gondokaryono",
+    "Topic": "Teknik Elektro",
+    "Attendance": 126
+  },
+  {
+    "ID_Course": "EL2003",
+    "Course_Name": "Struktur Diskrit",
+    "Lecturer": "Yoga Priyana",
+    "Topic": "Teknik Elektro",
+    "Attendance": 116
+  },
+  {
+    "ID_Course": "EL2004",
+    "Course_Name": "Probabilitas & Statistika",
+    "Lecturer": "Dimitri Mahayana",
+    "Topic": "Teknik Elektro",
+    "Attendance": 118
+  },
+  {
+    "ID_Course": "EL2005",
+    "Course_Name": "Elektronika",
+    "Lecturer": "Elvayandri",
+    "Topic": "Teknik Elektro",
+    "Attendance": 29
+  },
+  {
+    "ID_Course": "EL2006",
+    "Course_Name": "Medan Elektromagnetik",
+    "Lecturer": "Bambang Anggoro Soedjarno P.",
+    "Topic": "Teknik Elektro",
+    "Attendance": 89
+  },
+  {
+    "ID_Course": "EL2007",
+    "Course_Name": "Sinyal & Sistem",
+    "Lecturer": "Widyawardana Adiprawita",
+    "Topic": "Teknik Elektro",
+    "Attendance": 29
+  },
+  {
+    "ID_Course": "EL2008",
+    "Course_Name": "Pemecahan Masalah dengan C",
+    "Lecturer": "Aciek Ida Wuryandari",
+    "Topic": "Teknik Elektro",
+    "Attendance": 1
+  },
+  {
+    "ID_Course": "EL2142",
+    "Course_Name": "Sistem Digital & Mikroprosesor",
+    "Lecturer": "Yusuf Kurniawan",
+    "Topic": "Teknik Elektro",
+    "Attendance": 118
+  },
+  {
+    "ID_Course": "EL3009",
+    "Course_Name": "Elektronika II",
+    "Lecturer": "Amy Hamidah Salman",
+    "Topic": "Teknik Elektro",
+    "Attendance": 106
+  },
+  {
+    "ID_Course": "EL3010",
+    "Course_Name": "Pengolahan Sinyal Digital",
+    "Lecturer": "Yoannes Bandung",
+    "Topic": "Teknik Elektro",
+    "Attendance": 116
+  },
+  {
+    "ID_Course": "EL3011",
+    "Course_Name": "Arsitektur Sistem Komputer",
+    "Lecturer": "Yudi Satria Gondokaryono",
+    "Topic": "Teknik Elektro",
+    "Attendance": 106
+  },
+  {
+    "ID_Course": "EL3012",
+    "Course_Name": "Material Teknik Elektro",
+    "Lecturer": "Irman Idris",
+    "Topic": "Teknik Elektro",
+    "Attendance": 115
+  },
+  {
+    "ID_Course": "EL3013",
+    "Course_Name": "Sistem Instrumentasi",
+    "Lecturer": "Arief Syaichu Rohman",
+    "Topic": "Teknik Elektro",
+    "Attendance": 19
+  },
+  {
+    "ID_Course": "EL3014",
+    "Course_Name": "Sistem Mikroprosesor",
+    "Lecturer": "Farkhad Ihsan Hariadi",
+    "Topic": "Teknik Elektro",
+    "Attendance": 4
+  },
+  {
+    "ID_Course": "EL3015",
+    "Course_Name": "Sistem Kendali",
+    "Lecturer": "Carmadi Machbub",
+    "Topic": "Teknik Elektro",
+    "Attendance": 75
+  },
+  {
+    "ID_Course": "EL3016",
+    "Course_Name": "Sistem Komunikasi",
+    "Lecturer": "Emir Mauludi Husni",
+    "Topic": "Teknik Elektro",
+    "Attendance": 3
+  },
+  {
+    "ID_Course": "EL3017",
+    "Course_Name": "Sistem Tenaga Elektrik",
+    "Lecturer": "Umar Khayam",
+    "Topic": "Teknik Elektro",
+    "Attendance": 14
+  },
+  {
+    "ID_Course": "EL4018",
+    "Course_Name": "Etika Profesi & Rekayasa",
+    "Lecturer": "Emir Mauludi Husni",
+    "Topic": "Teknik Elektro",
+    "Attendance": 132
+  },
+  {
+    "ID_Course": "EL4019",
+    "Course_Name": "Sistem Penggerak Elektrik",
+    "Lecturer": "Arief Syaichu Rohman",
+    "Topic": "Teknik Elektro",
+    "Attendance": 35
+  },
+  {
+    "ID_Course": "EL4120",
+    "Course_Name": "Jaringan Komputer",
+    "Lecturer": "Waskita Adijarto",
+    "Topic": "Teknik Elektro",
+    "Attendance": 21
+  },
+  {
+    "ID_Course": "EL4121",
+    "Course_Name": "Perancangan Sistem Embedded",
+    "Lecturer": "Waskita Adijarto",
+    "Topic": "Teknik Elektro",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "EL4123",
+    "Course_Name": "Sistem Kendali Digital",
+    "Lecturer": "Iyas Munawar",
+    "Topic": "Teknik Elektro",
+    "Attendance": 22
+  },
+  {
+    "ID_Course": "EL4125",
+    "Course_Name": "Pengolahan Citra Digital",
+    "Lecturer": "Tati Latifah Erawati Rajab",
+    "Topic": "Teknik Elektro",
+    "Attendance": 62
+  },
+  {
+    "ID_Course": "EL4126",
+    "Course_Name": "Robotika",
+    "Lecturer": "Hilwadi Hindersah",
+    "Topic": "Teknik Elektro",
+    "Attendance": 97
+  },
+  {
+    "ID_Course": "EL4127",
+    "Course_Name": "Arsitektur & Komputasi Paralel",
+    "Lecturer": "Yudi Satria Gondokaryono",
+    "Topic": "Teknik Elektro",
+    "Attendance": 91
+  },
+  {
+    "ID_Course": "EL4128",
+    "Course_Name": "Perancangan Sistem Operasi",
+    "Lecturer": "Yoga Priyana",
+    "Topic": "Teknik Elektro",
+    "Attendance": 42
+  },
+  {
+    "ID_Course": "EL4129",
+    "Course_Name": "Devais Semikonduktor",
+    "Lecturer": "Adang Suwandi Ahmad",
+    "Topic": "Teknik Elektro",
+    "Attendance": 8
+  },
+  {
+    "ID_Course": "EL4131",
+    "Course_Name": "Anatomi dan Fisiologi",
+    "Lecturer": "Richard Karel Willem Mengko",
+    "Topic": "Teknik Elektro",
+    "Attendance": 23
+  },
+  {
+    "ID_Course": "EL4132",
+    "Course_Name": "Teknik Biomedika",
+    "Lecturer": "Agung Wahyu Setiawan",
+    "Topic": "Teknik Elektro",
+    "Attendance": 30
+  },
+  {
+    "ID_Course": "EL4138",
+    "Course_Name": "Perancangan Sistem VLSI",
+    "Lecturer": "Trio Adiono",
+    "Topic": "Teknik Elektro",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "EL4241",
+    "Course_Name": "Mikroelektronika RF & Mixed Signal",
+    "Lecturer": "Basuki Rachmatul Alam",
+    "Topic": "Teknik Elektro",
+    "Attendance": 6
+  },
+  {
+    "ID_Course": "IF2110",
+    "Course_Name": "Algoritma & Struktur Data",
+    "Lecturer": "Adi Mulyanto",
+    "Topic": "Teknik Informatika",
+    "Attendance": 165
+  },
+  {
+    "ID_Course": "IF2111",
+    "Course_Name": "Algoritma dan Struktur Data",
+    "Lecturer": "Riza Satria Perdana",
+    "Topic": "Teknik Informatika",
+    "Attendance": 52
+  },
+  {
+    "ID_Course": "IF2120",
+    "Course_Name": "Matematika Diskrit",
+    "Lecturer": "Rinaldi",
+    "Topic": "Teknik Informatika",
+    "Attendance": 163
+  },
+  {
+    "ID_Course": "IF2121",
+    "Course_Name": "Logika Informatika",
+    "Lecturer": "Nur Ulfa Maulidevi",
+    "Topic": "Teknik Informatika",
+    "Attendance": 161
+  },
+  {
+    "ID_Course": "IF2123",
+    "Course_Name": "Aljabar Geometri",
+    "Lecturer": "Judhi Santoso",
+    "Topic": "Teknik Informatika",
+    "Attendance": 164
+  },
+  {
+    "ID_Course": "IF2130",
+    "Course_Name": "Organisasi & Arsitektur Komputer",
+    "Lecturer": "Kusprasapta Mutijarsa",
+    "Topic": "Teknik Informatika",
+    "Attendance": 162
+  },
+  {
+    "ID_Course": "IF2132",
+    "Course_Name": "Pemrograman Komputer",
+    "Lecturer": "Fazat Nur Azizah",
+    "Topic": "Teknik Informatika",
+    "Attendance": 102
+  },
+  {
+    "ID_Course": "IF2140",
+    "Course_Name": "Pemodelan Basis Data",
+    "Lecturer": "Adi Mulyanto",
+    "Topic": "Teknik Informatika",
+    "Attendance": 50
+  },
+  {
+    "ID_Course": "IF2220",
+    "Course_Name": "Teori Bahasa Formal dan Otomata",
+    "Lecturer": "Harlili",
+    "Topic": "Teknik Informatika",
+    "Attendance": 156
+  },
+  {
+    "ID_Course": "IF3110",
+    "Course_Name": "Pengembangan Aplikasi Berbasis Web",
+    "Lecturer": "Riza Satria Perdana",
+    "Topic": "Teknik Informatika",
+    "Attendance": 168
+  },
+  {
+    "ID_Course": "IF3111",
+    "Course_Name": "Pengembangan Aplikasi pada Platform Khusus",
+    "Lecturer": "Saiful Akbar",
+    "Topic": "Teknik Informatika",
+    "Attendance": 44
+  },
+  {
+    "ID_Course": "IF3130",
+    "Course_Name": "Jaringan Komputer",
+    "Lecturer": "Afwarman",
+    "Topic": "Teknik Informatika",
+    "Attendance": 147
+  },
+  {
+    "ID_Course": "IF3140",
+    "Course_Name": "Manajemen Basis Data",
+    "Lecturer": "Saiful Akbar",
+    "Topic": "Teknik Informatika",
+    "Attendance": 157
+  },
+  {
+    "ID_Course": "IF3150",
+    "Course_Name": "Manajemen Proyek Perangkat Lunak",
+    "Lecturer": "Adi Mulyanto",
+    "Topic": "Teknik Informatika",
+    "Attendance": 156
+  },
+  {
+    "ID_Course": "IF3151",
+    "Course_Name": "Interaksi Manusia & Komputer",
+    "Lecturer": "Dwi Hendratmo Widyantoro",
+    "Topic": "Teknik Informatika",
+    "Attendance": 156
+  },
+  {
+    "ID_Course": "IF3152",
+    "Course_Name": "Rekayasa Perangkat Lunak",
+    "Lecturer": "Wikan Danar Sunindyo",
+    "Topic": "Teknik Informatika",
+    "Attendance": 46
+  },
+  {
+    "ID_Course": "IF3170",
+    "Course_Name": "Intelegensi Buatan",
+    "Lecturer": "Ayu Purwarianti",
+    "Topic": "Teknik Informatika",
+    "Attendance": 148
+  },
+  {
+    "ID_Course": "IF4031",
+    "Course_Name": "Pengembangan Aplikasi Terdistribusi",
+    "Lecturer": "Achmad Imam Kistijantoro",
+    "Topic": "Teknik Informatika",
+    "Attendance": 54
+  },
+  {
+    "ID_Course": "IF4041",
+    "Course_Name": "Teknologi Basis Data",
+    "Lecturer": "Gusti Ayu Putri Saptawati S",
+    "Topic": "Teknik Informatika",
+    "Attendance": 48
+  },
+  {
+    "ID_Course": "IF4043",
+    "Course_Name": "Sistem Informasi Lanjut",
+    "Lecturer": "Iping Supriana Suwardi",
+    "Topic": "Teknik Informatika",
+    "Attendance": 35
+  },
+  {
+    "ID_Course": "IF4050",
+    "Course_Name": "Pembangunan Perangkat Lunak Berorientasi Service",
+    "Lecturer": "Bernhard Sitohang",
+    "Topic": "Teknik Informatika",
+    "Attendance": 37
+  },
+  {
+    "ID_Course": "IF4070",
+    "Course_Name": "Representasi Pengetahuan dan Penalaran",
+    "Lecturer": "Iping Supriana Suwardi",
+    "Topic": "Teknik Informatika",
+    "Attendance": 30
+  },
+  {
+    "ID_Course": "IF4071",
+    "Course_Name": "Pembelajaran Mesin",
+    "Lecturer": "Dessi Puji Lestari",
+    "Topic": "Teknik Informatika",
+    "Attendance": 94
+  },
+  {
+    "ID_Course": "IF4072",
+    "Course_Name": "Pemrosesan Text dan Suara Bahasa Alami",
+    "Lecturer": "Ayu Purwarianti",
+    "Topic": "Teknik Informatika",
+    "Attendance": 66
+  },
+  {
+    "ID_Course": "IF4073",
+    "Course_Name": "Interpretasi dan Pengolahan Citra",
+    "Lecturer": "Iping Supriana Suwardi",
+    "Topic": "Teknik Informatika",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "IF4150",
+    "Course_Name": "Rekayasa Perangkat Lunak Spesifik Domain",
+    "Lecturer": "M.M. Inggriani",
+    "Topic": "Teknik Informatika",
+    "Attendance": 110
+  },
+  {
+    "ID_Course": "KU1071",
+    "Course_Name": "Pengenalan Teknologi Informasi A",
+    "Lecturer": "Adi Mulyanto",
+    "Topic": "Kuliah Umum",
+    "Attendance": 690
+  },
+  {
+    "ID_Course": "KU1072",
+    "Course_Name": "Pengenalan Teknologi Informasi B",
+    "Lecturer": "Fazat Nur Azizah",
+    "Topic": "Kuliah Umum",
+    "Attendance": 1371
+  },
+  {
+    "ID_Course": "MS1100",
+    "Course_Name": "Pengenalan Teknik Mesin, Material, dan Dirgantara",
+    "Lecturer": "Arief Hariyanto",
+    "Topic": "Teknik Mesin",
+    "Attendance": 98
+  },
+  {
+    "ID_Course": "MS1200",
+    "Course_Name": "Gambar Teknik",
+    "Lecturer": "Indria Herman",
+    "Topic": "Teknik Mesin",
+    "Attendance": 1
+  },
+  {
+    "ID_Course": "MS1210",
+    "Course_Name": "Statika Struktur",
+    "Lecturer": "Abdul Hakim Masyhur",
+    "Topic": "Teknik Mesin",
+    "Attendance": 1
+  },
+  {
+    "ID_Course": "MS2021",
+    "Course_Name": "Mekanika Teknik Dasar",
+    "Lecturer": "Muhamad Giri Suada",
+    "Topic": "Teknik Mesin",
+    "Attendance": 131
+  },
+  {
+    "ID_Course": "MS2022",
+    "Course_Name": "Pemilihan Elemen Mesin",
+    "Lecturer": "M. Agus Kariem",
+    "Topic": "Teknik Mesin",
+    "Attendance": 50
+  },
+  {
+    "ID_Course": "MS2041",
+    "Course_Name": "Rekayasa Termal & Mekanika Fluida",
+    "Lecturer": "Willy Adriansyah",
+    "Topic": "Teknik Mesin",
+    "Attendance": 67
+  },
+  {
+    "ID_Course": "MS2100",
+    "Course_Name": "Analisis Teknik Dasar",
+    "Lecturer": "Nathanael Panagung Tandian",
+    "Topic": "Teknik Mesin",
+    "Attendance": 269
+  },
+  {
+    "ID_Course": "MS2111",
+    "Course_Name": "Mekanika Kekuatan Material",
+    "Lecturer": "Sandro Mihradi",
+    "Topic": "Teknik Mesin",
+    "Attendance": 289
+  },
+  {
+    "ID_Course": "MS2112",
+    "Course_Name": "Kinematika dan Dinamika",
+    "Lecturer": "Kemas Rifian",
+    "Topic": "Teknik Mesin",
+    "Attendance": 198
+  },
+  {
+    "ID_Course": "MS2130",
+    "Course_Name": "Termodinamika Teknik I",
+    "Lecturer": "I Made Astina",
+    "Topic": "Teknik Mesin",
+    "Attendance": 224
+  },
+  {
+    "ID_Course": "MS2150",
+    "Course_Name": "Material Teknik",
+    "Lecturer": "Bambang Widyanto",
+    "Topic": "Teknik Mesin",
+    "Attendance": 330
+  },
+  {
+    "ID_Course": "MS2230",
+    "Course_Name": "Termodinamika Teknik II",
+    "Lecturer": "Toto Hardianto",
+    "Topic": "Teknik Mesin",
+    "Attendance": 1
+  },
+  {
+    "ID_Course": "MS3051",
+    "Course_Name": "Pemilihan Bahan dalam Desain",
+    "Lecturer": "Firmansyah",
+    "Topic": "Teknik Mesin",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "MS3100",
+    "Course_Name": "Pengukuran Teknik",
+    "Lecturer": "Zainal Abidin",
+    "Topic": "Teknik Mesin",
+    "Attendance": 156
+  },
+  {
+    "ID_Course": "MS3110",
+    "Course_Name": "Getaran Mekanik Dasar",
+    "Lecturer": "Ignatius Pulung Nurprasetio",
+    "Topic": "Teknik Mesin",
+    "Attendance": 155
+  },
+  {
+    "ID_Course": "MS3111",
+    "Course_Name": "Elemen Mesin II",
+    "Lecturer": "Bagus Budiwantoro",
+    "Topic": "Teknik Mesin",
+    "Attendance": 150
+  },
+  {
+    "ID_Course": "MS3130",
+    "Course_Name": "Perpindahan Panas I",
+    "Lecturer": "Willy Adriansyah",
+    "Topic": "Teknik Mesin",
+    "Attendance": 165
+  },
+  {
+    "ID_Course": "MS3131",
+    "Course_Name": "Mekanika Fluida II",
+    "Lecturer": "Priyono Soetikno",
+    "Topic": "Teknik Mesin",
+    "Attendance": 119
+  },
+  {
+    "ID_Course": "MS3160",
+    "Course_Name": "Proses Manufaktur II",
+    "Lecturer": "Tri Prakosa",
+    "Topic": "Teknik Mesin",
+    "Attendance": 162
+  },
+  {
+    "ID_Course": "MS3161",
+    "Course_Name": "Metrologi Industri & Statistika",
+    "Lecturer": "Agung Wibowo",
+    "Topic": "Teknik Mesin",
+    "Attendance": 163
+  },
+  {
+    "ID_Course": "MS3181",
+    "Course_Name": "Rangkaian Digital",
+    "Lecturer": "Indrawanto",
+    "Topic": "Teknik Mesin",
+    "Attendance": 20
+  },
+  {
+    "ID_Course": "MS3201",
+    "Course_Name": "Manajemen & Ekonomi Kerekayasaan",
+    "Lecturer": "Yatna Yuwana Martawirya",
+    "Topic": "Teknik Mesin",
+    "Attendance": 119
+  },
+  {
+    "ID_Course": "MS4010",
+    "Course_Name": "Teknik Kendaraan",
+    "Lecturer": "Ignatius Pulung Nurprasetio",
+    "Topic": "Teknik Mesin",
+    "Attendance": 14
+  },
+  {
+    "ID_Course": "MS4011",
+    "Course_Name": "Metode Elemen Hingga",
+    "Lecturer": "M. Agus Kariem",
+    "Topic": "Teknik Mesin",
+    "Attendance": 11
+  },
+  {
+    "ID_Course": "MS4014",
+    "Course_Name": "Perancangan dan Konstruksi Sistem Perpipaan",
+    "Lecturer": "M. Agus Kariem",
+    "Topic": "Teknik Mesin",
+    "Attendance": 18
+  },
+  {
+    "ID_Course": "MS4030",
+    "Course_Name": "Sistem Pembangkit Tenaga Uap",
+    "Lecturer": "Toto Hardianto",
+    "Topic": "Teknik Mesin",
+    "Attendance": 5
+  },
+  {
+    "ID_Course": "MS4031",
+    "Course_Name": "Perancangan Sistem Fluida",
+    "Lecturer": "I Nengah Diasta",
+    "Topic": "Teknik Mesin",
+    "Attendance": 18
+  },
+  {
+    "ID_Course": "MS4032",
+    "Course_Name": "Sistem Pendingan dan Kriogenikas",
+    "Lecturer": "Ari Darmawan Pasek",
+    "Topic": "Teknik Mesin",
+    "Attendance": 22
+  },
+  {
+    "ID_Course": "MS4033",
+    "Course_Name": "Motor Bakar Torak",
+    "Lecturer": "Iman Kartolaksono Reksowardojo",
+    "Topic": "Teknik Mesin",
+    "Attendance": 12
+  },
+  {
+    "ID_Course": "MS4034",
+    "Course_Name": "Turbin Gas",
+    "Lecturer": "Tri Yuswidjajanto Zaenuri",
+    "Topic": "Teknik Mesin",
+    "Attendance": 31
+  },
+  {
+    "ID_Course": "AE2100",
+    "Course_Name": "Pengenalan Teknik Dirgantara",
+    "Lecturer": "Hari Muhammad",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 98
+  },
+  {
+    "ID_Course": "AE2101",
+    "Course_Name": "Matematika Teknik I",
+    "Lecturer": "Mochammad Agoes Moelyadi",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 94
+  },
+  {
+    "ID_Course": "AE2102",
+    "Course_Name": "Rekayasa Termal",
+    "Lecturer": "Lavi Rizki Zuhal",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 92
+  },
+  {
+    "ID_Course": "AE2103",
+    "Course_Name": "Kinematika dan Dinamika",
+    "Lecturer": "Leonardo Gunawan",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 92
+  },
+  {
+    "ID_Course": "AE2150",
+    "Course_Name": "Material Pesawat dan Metode Manufaktur I",
+    "Lecturer": "Sigit Puji Santosa",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 94
+  },
+  {
+    "ID_Course": "AE3110",
+    "Course_Name": "Aerodinamika I",
+    "Lecturer": "Djoko Sardjadi",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 56
+  },
+  {
+    "ID_Course": "AE3111",
+    "Course_Name": "Analisis Aerodinamika dan Prestasi Terbang II",
+    "Lecturer": "Ony Arifianto",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 56
+  },
+  {
+    "ID_Course": "AE3180",
+    "Course_Name": "Sistem Pesawat Udara I",
+    "Lecturer": "Edy Suwondo",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 58
+  },
+  {
+    "ID_Course": "AE4010",
+    "Course_Name": "Aerodinamika Komputasi",
+    "Lecturer": "Mochammad Agoes Moelyadi",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 9
+  },
+  {
+    "ID_Course": "AE4030",
+    "Course_Name": "Dinamika dan Pengendalian Satelit",
+    "Lecturer": "Ridanto Eko Poetro",
+    "Topic": "Teknik Dirgantara",
+    "Attendance": 11
+  },
+  {
+    "ID_Course": "MT2101",
+    "Course_Name": "Sifat Mekanik Material",
+    "Lecturer": "Arif Basuki",
+    "Topic": "Teknik Material",
+    "Attendance": 70
+  },
+  {
+    "ID_Course": "MT2102",
+    "Course_Name": "Mekanika Material",
+    "Lecturer": "Hermawan Judawisastra",
+    "Topic": "Teknik Material",
+    "Attendance": 69
+  },
+  {
+    "ID_Course": "MT3114",
+    "Course_Name": "Transformasi Fasa",
+    "Lecturer": "Rochim Suratman",
+    "Topic": "Teknik Material",
+    "Attendance": 77
+  },
+  {
+    "ID_Course": "MT3132",
+    "Course_Name": "Material Polimer",
+    "Lecturer": "Mardiyanti",
+    "Topic": "Teknik Material",
+    "Attendance": 77
+  },
+  {
+    "ID_Course": "MT4033",
+    "Course_Name": "Proses Pengerjaan Komposit Polimer",
+    "Lecturer": "Slameto",
+    "Topic": "Teknik Material",
+    "Attendance": 80
+  },
+  {
+    "ID_Course": "SI2011",
+    "Course_Name": "Rekayasa Bahan Konstruksi Sipil",
+    "Lecturer": "Herlien Dwiarti Soemari",
+    "Topic": "Teknik Sipil",
+    "Attendance": 200
+  },
+  {
+    "ID_Course": "SI2012",
+    "Course_Name": "Analisis Statistik dan Probabilitas",
+    "Lecturer": "Hernawan Mahfudz",
+    "Topic": "Teknik Sipil",
+    "Attendance": 160
+  },
+  {
+    "ID_Course": "SI2131",
+    "Course_Name": "Mekanika Fluida dan Hidraulika",
+    "Lecturer": "Arno Adi Kuntoro",
+    "Topic": "Teknik Sipil",
+    "Attendance": 160
+  },
+  {
+    "ID_Course": "SI3112",
+    "Course_Name": "Struktur Beton",
+    "Lecturer": "Indra Djati",
+    "Topic": "Teknik Sipil",
+    "Attendance": 165
+  },
+  {
+    "ID_Course": "SI3121",
+    "Course_Name": "Mekanika Tanah II",
+    "Lecturer": "Franciscus Xaverius Toha",
+    "Topic": "Teknik Sipil",
+    "Attendance": 154
+  },
+  {
+    "ID_Course": "SI3131",
+    "Course_Name": "Irigasi dan Drainase",
+    "Lecturer": "Sri Legowo Wignyo Darsono",
+    "Topic": "Teknik Sipil",
+    "Attendance": 163
+  },
+  {
+    "ID_Course": "SI4111",
+    "Course_Name": "Rekayasa & Perancangan Struktur",
+    "Lecturer": "Made Suarjana",
+    "Topic": "Teknik Sipil",
+    "Attendance": 161
+  },
+  {
+    "ID_Course": "SI4112",
+    "Course_Name": "Struktur Beton Lanjut",
+    "Lecturer": "Iswandi Irman",
+    "Topic": "Teknik Sipil",
+    "Attendance": 135
+  },
+  {
+    "ID_Course": "SI4151",
+    "Course_Name": "Ekonomi Teknik",
+    "Lecturer": "N.R. Reini Djuhraeni W.",
+    "Topic": "Teknik Sipil",
+    "Attendance": 166
+  },
+  {
+    "ID_Course": "TL2104",
+    "Course_Name": "Pengantar Teknik Lingkungan",
+    "Lecturer": "Qomarudin Helmy",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 107
+  },
+  {
+    "ID_Course": "TL3101",
+    "Course_Name": "Pengolahan Fisik dan Kimia",
+    "Lecturer": "Marisa Handajani",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 89
+  },
+  {
+    "ID_Course": "TL3104",
+    "Course_Name": "Pengelolaan Persampahan",
+    "Lecturer": "Mochammad Chaerul",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 38
+  },
+  {
+    "ID_Course": "TL3105",
+    "Course_Name": "Teknik Penyediaan Air Minum",
+    "Lecturer": "Yuniati",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 84
+  },
+  {
+    "ID_Course": "TL4002",
+    "Course_Name": "Rekayasa Lingkungan",
+    "Lecturer": "Arief Sudradjat",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 171
+  },
+  {
+    "ID_Course": "TL4103",
+    "Course_Name": "Kesehatan Lingkungan Kerja",
+    "Lecturer": "Katharina Oginawati",
+    "Topic": "Teknik Lingkungan",
+    "Attendance": 117
+  }
+]
